@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Luca 👋</h1>
 
-[![Website](https://img.shields.io/website?label=luca.cambiaghi.me&style=flat&url=https%3A%2F%2Fluca.cambiaghi.me)](https://luca.cambiaghi.me)
+[![Website](https://img.shields.io/website?label=lucacambiaghi.com&style=flat&url=https%3A%2F%2Flucacambiaghi.com)](https://lucacambiaghi.com)
 
 ### Connect with me:
 
